@@ -15,3 +15,6 @@
 # week 2 
 - studying with pandas 
 - studying with dataframe
+
+# week 3 
+- 
